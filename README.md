@@ -1,2 +1,2 @@
-# hello-world
-R1
+Hi,
+First tentative steps into Github!
